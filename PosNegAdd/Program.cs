@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// 프로그래머스 코딩테스트 연습
+// 음양 더하기  
 namespace PosNegAdd
 {
     class MainClass
